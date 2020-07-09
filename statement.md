@@ -11,6 +11,8 @@ public static void main(String[] args) {
 
 String message = "Hello World!";
 System.out.println(message);
+if system.out.printIn(message)
+System.out.printIn(message)
 
 //{ autofold
 }
